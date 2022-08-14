@@ -1,0 +1,4 @@
+Ptint("Selamat Datang")
+Author = "Ozi"
+Date = 14 Agustus 2022
+Ptint("Author Name",Author,"Create Date",Date)
